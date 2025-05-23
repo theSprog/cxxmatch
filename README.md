@@ -103,7 +103,7 @@ Yes, this compiles as plain C++11 with just one header. 🤯
 
 ## 🛠 Installation
 
-This lib is a header-only so all you need is just put `cxxmatch.h` and `variant.hpp` to your project，have fun !
+This lib is a header-only so all you need is just put `cxxmatch.h` and `variant.hpp`(if >= cpp17, this it not necessary) to your project，have fun !
 
 
 
