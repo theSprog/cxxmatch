@@ -111,8 +111,8 @@ This lib is a header-only so all you need is just put `cxxmatch.h` and `variant.
 ## 💬 Inspired By
 
 * Rust's powerful `enum` and `match`
-* mpark/variant (for C++11 backport)
-* Louis Dionne’s `Boost.Hana`
+* [mpark/variant](https://github.com/mpark/variant) (for C++11 backport)
+* Louis Dionne’s [Boost.Hana](https://github.com/boostorg/hana)
 * Good macros that don’t make you cry
 
 
