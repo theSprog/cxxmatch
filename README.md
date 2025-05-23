@@ -16,6 +16,10 @@
 ## ✨ Quick Example
 
 ```cpp
+#include "cxxmatch.hpp" // <-- here
+#include <iostream>
+#include <string>
+
 // define a enum with data
 CXXRUST_ENUM(UserState,
     (Guest,     {}),	// without data
